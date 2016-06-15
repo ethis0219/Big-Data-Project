@@ -1,6 +1,7 @@
 安博盒子 3 n
 s800plus 3 n
 電視盒 3 n
+網路電視盒 3 n
 Broadlink RM Pro 3 n
 紅外線遙控家電整合主機 3 n
 Google Chromecast 3 n
